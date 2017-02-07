@@ -1,0 +1,18 @@
+<wpml-config>
+	<admin-texts>
+		<key name="plugin_delete_me">
+			<key name="settings">
+				<key name="your_profile_anchor" />
+				<key name="your_profile_confirm_heading" />
+				<key name="your_profile_confirm_warning" />
+				<key name="your_profile_confirm_button" />
+				<key name="your_profile_landing_url" />
+				<key name="shortcode_anchor" />
+				<key name="shortcode_js_confirm_warning" />
+				<key name="shortcode_landing_url" />
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>
+
+
